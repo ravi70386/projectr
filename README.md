@@ -1,1 +1,2 @@
 # projectr
+started learning git
